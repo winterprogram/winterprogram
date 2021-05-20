@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sandeep
-- 👀 I’m interested in Backend development (Node.js,Python) and Cloud Architecture(AWS,GCP,Firebase)!
-- 🌱 I’m currently learning Golang.
+- 👀 I’m interested in Backend development (Node.js,Python,Golang) and Cloud Architecture(AWS,GCP,Firebase)!
 - 💞️ I’m looking to collaborate on open source and other interesting projects.
 - 📫 How to reach me chakladar.sandeep3@gmail.com
 
